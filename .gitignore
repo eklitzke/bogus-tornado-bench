@@ -1,2 +1,10 @@
 *.py[co]
 *~
+*.sw[nop]
+*.egg-info/
+build
+dist
+lib
+lib64
+bin
+include
